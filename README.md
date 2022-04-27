@@ -17,7 +17,7 @@
 <H2> Imagem do projeto </h2>
 
 
-<img src="./2022-04-26 (3).png" alt="foto do projeto">
+<img src="./2022-04-27.png" alt="foto do projeto">
 
 
 
