@@ -1,3 +1,4 @@
+
 # My_first_challenge
  Este foi meu primeiro desafio, focado em HTML5
 
@@ -15,7 +16,11 @@
 
 <H2> Imagem do projeto </h2>
 
+<<<<<<< HEAD
 <img src="./2022-04-26 (3).png" alt="foto do projeto">
+=======
+<img src="./2022-04-26 (3).png">
+>>>>>>> e627d9bbeba4751fd364785921e86974c47a7b36
 
 
 
